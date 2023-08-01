@@ -1,2 +1,3 @@
-# spaceinvaders
-space invaders in type script
+# Space Invaders
+Simple space invaders written in Typescript
+
